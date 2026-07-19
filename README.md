@@ -1,25 +1,30 @@
 ## Welcome to My GitHub Profile! 🌌
 
-Hello! I'm Jacob, a software engineer with a PhD in Astronomy and Astrophysics from the University of Toronto (2024). My thesis work was in the field of adaptive optics (AO), where I mainly focussed on real-time control. For my thesis, I also worked on Adaptive Secondary Mirror (ASM) calibration techniques, AI-enhanced control for AO, infrared camera characterization (SAPHIRA), and AO bench design.
+Hello! I'm Jacob, a software and controls engineer specializing in adaptive optics, with a PhD in Astronomy and Astrophysics. I build real-time systems for astronomy and enjoy building and collaborating on open-source tools for the field.
 
-I work as the AO Software Engineer at the W. M. Keck Observatory on the big island of Hawaii, a role I've held since 2025. My position at Keck is a unique combination of software engineering and AO development. I am a member of both departments and have been learning from both.
+**Contact:** [jacobataylor7@gmail.com](mailto:jacobataylor7@gmail.com) · **ORCID:** [0000-0002-6356-567X](https://orcid.org/0000-0002-6356-567X)
 
-### About My Work
+### Professional Credentials
 
-I lead the development of **pyRTC**, an open-source project I started during my PhD. **pyRTC** focuses on delivering high-performance real-time control using only Python. PyRTC aims to combine performance with usability and is particularly suited for advanced control methods, including AI-enhanced controllers.
+**AO Software Engineer, W. M. Keck Observatory** · 2025–present
 
-I'm looking for collaborators interested in contributing to this project. If you're passionate about open-source software and want to be part of the pyRTC community, I'd love to hear from you.
+I lead the real-time control (RTC) platform for STRATA, the upcoming adaptive optics facility upgrade for the Keck I telescope. I also develop and maintain the software stacks for the Keck I and Keck II AO systems and their lasers, supporting the HAKA upgrade on Keck II and the KAPA upgrade on Keck I.
 
-Currently, I am working on several Keck AO development projects, including HAKA, KAPA, KASM, and the AO refurbishment project. As part of these projects, I am developing tools for tomographic reconstruction, visualizations, software infrastructure and Keck simulations.
+My work includes modernizing and sustaining complex, long-lived observatory systems, as well as integrating cameras, motion stages, filter wheels, and optomechanical hardware into AO systems. If it touches the AO system, and needs software, I'm there!
 
-### Other Projects
+### Education
 
-I am also the lead developer for the **veta** project. **veta** is an open-source project for scoring the Levels of Emotional Awareness Scale (LEAS). The LEAS is a multi-lingual psychiatric test designed to gauge emotional awareness, which has been associated with a broad range of clinical psychiatric disorders. **veta** has been featured in several peer-reviewed publications in medical journals, several of which can be found linked on my [ORCID profile](https://orcid.org/0000-0002-6356-567X).
+**PhD, Astronomy and Astrophysics, University of Toronto** · 2024
 
-### Let's Connect
+My [doctoral thesis](https://www.proquest.com/openview/91af61e56e5a94737edb338669a1d019/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y) focused on adaptive optics and real-time control, including adaptive-secondary-mirror calibration, AI-enhanced control, eAPD infrared camera characterization, and AO bench design.
 
-I'm always open to collaboration opportunities. Whether you're an experienced developer or new to the field, there's a place for you in the pyRTC project.
+### Personal Projects
 
-Feel free to contact me at [jtaylor@keck.hawaii.edu](mailto:jtaylor@keck.hawaii.edu). Looking forward to connecting!
+I’m passionate about building open-source tools that make adaptive optics and scientific software more accessible to the community. These projects grew from that work and are intended to be useful, approachable building blocks for others.
 
-Thanks for reading!
+- [**pyRTC**](https://github.com/jacotay7/pyRTC) — an open-source adaptive optics real-time control toolkit in Python, designed to combine a simple interface with high-performance control.
+- [**pyturb**](https://github.com/jacotay7/pyturb) — fast, GPU-optional atmospheric turbulence and phase-screen generation for adaptive optics.
+- [**aobasis**](https://github.com/jacotay7/aobasis) — a library for generating and working with adaptive-optics modal basis sets, including Zernike, KL, zonal, and Hadamard modes.
+- [**pyshmem**](https://github.com/jacotay7/pyshmem) — low-latency shared-memory streams for NumPy arrays and CUDA-backed PyTorch tensors.
+- [**shmpipeline**](https://github.com/jacotay7/shmpipeline) — a framework for building and managing high-performance CPU/GPU shared-memory compute pipelines.
+- [**getframes**](https://github.com/jacotay7/getframes) — realistic synthetic camera frames for scientific imaging and image-processing pipelines.
