@@ -32,7 +32,12 @@ I’m passionate about building open-source tools for real-time control, adaptiv
 
 * [**pyRTC**](https://github.com/jacotay7/pyRTC) — an open-source adaptive-optics real-time control toolkit in Python, designed to combine a simple interface with high-performance control.
 * [**pyturb**](https://github.com/jacotay7/pyturb) — fast, GPU-optional atmospheric turbulence and phase-screen generation for adaptive optics.
+* [**makewfs**](https://github.com/jacotay7/makewfs) — configuration-driven, physically realistic Shack–Hartmann and pyramid wavefront-sensor frames.
 * [**aobasis**](https://github.com/jacotay7/aobasis) — a library for generating and working with adaptive-optics modal basis sets, including Zernike, KL, zonal, and Hadamard modes.
 * [**pyshmem**](https://github.com/jacotay7/pyshmem) — low-latency shared-memory streams for NumPy arrays and CUDA-backed PyTorch tensors.
 * [**shmpipeline**](https://github.com/jacotay7/shmpipeline) — a framework for building and managing high-performance CPU/GPU shared-memory compute pipelines.
 * [**getframes**](https://github.com/jacotay7/getframes) — realistic synthetic camera frames for scientific imaging and image-processing pipelines.
+
+I also build developer tooling:
+
+* [**cheaphelp**](https://github.com/jacotay7/cheaphelp) — an AI software engineer that triages, plans, implements, and opens pull requests for your GitHub backlog using a team of low-cost agents, with a human reviewing every change.
