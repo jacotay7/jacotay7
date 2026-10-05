@@ -2,7 +2,7 @@
 
 Hello! I'm Jacob, a **controls and software engineer** with a PhD in Astronomy and Astrophysics. I specialize in precision control systems for astronomical instrumentation, with experience spanning adaptive optics, real-time control, state estimation, scientific software, and spacecraft fine guidance.
 
-I build precision control systems for astronomical instruments, from ground-based adaptive optics to spacecraft fine guidance. Today, I develop the control architecture that stabilizes the line of sight of the Cosmic space telescope; previously, I built real-time adaptive-optics and observatory software at the W. M. Keck Observatory.
+I build precision control systems for astronomical instruments, from ground-based adaptive optics to spacecraft fine guidance. Today, I develop the control architecture that stabilizes the line of sight of the Cosmic Frontier space telescope; previously, I built real-time adaptive optics and observatory software at the W. M. Keck Observatory.
 
 **Contact:** [jacobataylor7@gmail.com](mailto:jacobataylor7@gmail.com) · **ORCID:** [0000-0002-6356-567X](https://orcid.org/0000-0002-6356-567X)
 
